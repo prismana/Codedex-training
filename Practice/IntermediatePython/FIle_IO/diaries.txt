@@ -1,0 +1,3 @@
+Hello
+ This is my diary
+ Today I"am coding in Python
